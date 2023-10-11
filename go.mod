@@ -1,4 +1,4 @@
-module github.com/microservices/front-end
+module microservices
 
 go 1.21.1
 
